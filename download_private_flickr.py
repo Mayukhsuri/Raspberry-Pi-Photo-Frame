@@ -34,5 +34,5 @@ def main():
             image_file.write(r.content)
             image_file.close()
             
-if __name__ == '__main__':
+#if __name__ == '__main__':
     main()
